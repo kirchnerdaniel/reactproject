@@ -1,0 +1,14 @@
+.poke{
+    border: 5px solid blue;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px #fccf00;
+    background-color: #fccf00;
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.poke h4{
+    margin: 0;
+}
