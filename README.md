@@ -1,1 +1,1 @@
-# reactproject
+A feladat egy weboldal létrehozása volt aminek van egy főoldala, egy másik lapon kilistázza az API-ból lekért pokémonokat, illetve a harmadik lapon pokémonokra lehet rákeresni.
